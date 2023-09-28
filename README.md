@@ -1,4 +1,5 @@
 # repo1
 This is my first git Repository.
 <br>
-Author- Mayank Choudhary
+Author- Mayank Choudhary (IITIAN)
+
